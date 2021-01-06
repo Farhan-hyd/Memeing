@@ -1,4 +1,4 @@
-package com.example.memeshare
+package com.example.memeing
 
 import android.content.Context
 import com.android.volley.Request

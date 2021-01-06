@@ -1,4 +1,4 @@
-package com.example.memeshare
+package com.example.memeing
 
 import org.junit.Test
 
